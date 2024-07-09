@@ -1,0 +1,15 @@
+File type = "ooTextFile"
+Object class = "DurationTier"
+
+xmin = 0.0 
+xmax = 103.25333333333333 
+points: size = 3 
+points [1]:
+	number = 15.922818410128954 
+	value = 1.928128544596358 
+points [2]:
+	number = 47.466551184790944 
+	value = 0.7290640131233914 
+points [3]:
+	number = 73.8901418279136 
+	value = 2.0710939310412115 
